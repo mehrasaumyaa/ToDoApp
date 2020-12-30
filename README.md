@@ -32,7 +32,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- Syntax differences while setting margins
+- Understanding how Adapters work
+- Debug why the ToDo app kept shutting down 
+- Other minor hiccups
 
 ## License
 
